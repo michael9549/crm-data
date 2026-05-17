@@ -10,12 +10,13 @@
       "temperature": "Hot",
       "lastContact": "2026-05-17",
       "nextFollowUp": "2026-05-18",
-      "followUpCount": 1,
+      "followUpCount": 0,
       "lastAction": "Follow-up 1",
       "notes": "This is a sample lead to test the SOM. Delete it when ready.",
       "dateAdded": "2026-05-17",
-      "lastModified": "2026-05-17"
+      "lastModified": "2026-05-17",
+      "social": ""
     }
   ],
-  "lastUpdated": "2026-05-17T01:50:24.962Z"
+  "lastUpdated": "2026-05-17T01:51:07.819Z"
 }
