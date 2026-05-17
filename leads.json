@@ -6,7 +6,7 @@
       "email": "sample@example.com",
       "phone": "555-0123",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "New Lead",
       "temperature": "Warm",
       "lastContact": "2026-05-17",
       "nextFollowUp": "2026-05-18",
@@ -18,5 +18,5 @@
       "social": ""
     }
   ],
-  "lastUpdated": "2026-05-17T14:25:56.343Z"
+  "lastUpdated": "2026-05-17T14:26:26.125Z"
 }
