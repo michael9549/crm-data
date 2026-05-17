@@ -7,7 +7,7 @@
       "phone": "555-0123",
       "source": "Facebook",
       "status": "New Lead",
-      "temperature": "Warm",
+      "temperature": "Hot",
       "lastContact": null,
       "nextFollowUp": "2026-05-19",
       "followUpCount": 0,
@@ -17,5 +17,5 @@
       "lastModified": "2026-05-17"
     }
   ],
-  "lastUpdated": "2026-05-17T00:00:00Z"
+  "lastUpdated": "2026-05-17T01:29:38.804Z"
 }
