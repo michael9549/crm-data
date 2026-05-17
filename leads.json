@@ -1,1 +1,21 @@
-{"leads": [], "lastUpdated": "2026-05-17T00:00:00Z"}
+{
+  "leads": [
+    {
+      "id": "sample-1",
+      "name": "Sample Lead",
+      "email": "sample@example.com",
+      "phone": "555-0123",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Warm",
+      "lastContact": null,
+      "nextFollowUp": "2026-05-19",
+      "followUpCount": 0,
+      "lastAction": "Initial Contact",
+      "notes": "This is a sample lead to test the SOM. Delete it when ready.",
+      "dateAdded": "2026-05-17",
+      "lastModified": "2026-05-17"
+    }
+  ],
+  "lastUpdated": "2026-05-17T00:00:00Z"
+}
