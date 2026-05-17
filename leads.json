@@ -9,7 +9,7 @@
       "status": "New Lead",
       "temperature": "Hot",
       "lastContact": "2026-05-16",
-      "nextFollowUp": "2026-05-30",
+      "nextFollowUp": "2026-05-17",
       "followUpCount": 1,
       "lastAction": "Follow-up 1",
       "notes": "This is a sample lead to test the SOM. Delete it when ready.",
@@ -18,5 +18,5 @@
       "social": ""
     }
   ],
-  "lastUpdated": "2026-05-17T02:15:56.485Z"
+  "lastUpdated": "2026-05-17T02:16:27.445Z"
 }
