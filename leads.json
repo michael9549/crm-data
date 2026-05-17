@@ -8,9 +8,9 @@
       "source": "Facebook",
       "status": "New Lead",
       "temperature": "Hot",
-      "lastContact": null,
-      "nextFollowUp": null,
-      "followUpCount": 0,
+      "lastContact": "2026-05-17",
+      "nextFollowUp": "2026-05-18",
+      "followUpCount": 1,
       "lastAction": "Follow-up 1",
       "notes": "This is a sample lead to test the SOM. Delete it when ready.",
       "dateAdded": "2026-05-17",
@@ -18,5 +18,5 @@
       "social": ""
     }
   ],
-  "lastUpdated": "2026-05-17T01:56:45.597Z"
+  "lastUpdated": "2026-05-17T01:56:58.582Z"
 }
