@@ -1,4 +1,21 @@
 {
-  "leads": [],
-  "lastUpdated": "2026-05-18T13:31:36.537Z"
+  "leads": [
+    {
+      "id": "mpbasozefeimfubd0o4",
+      "name": "Corey Lamm",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cory.lamm.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-18",
+      "nextFollowUp": "2026-05-19",
+      "notes": "",
+      "lastModified": "2026-05-18",
+      "dateAdded": "2026-05-18"
+    }
+  ],
+  "lastUpdated": "2026-05-18T14:27:11.354Z"
 }
