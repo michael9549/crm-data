@@ -24,7 +24,7 @@
       "social": "https://www.facebook.com/sean.c.spicer.1",
       "source": "Facebook",
       "status": "New Lead",
-      "temperature": "Hot",
+      "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-18",
       "nextFollowUp": "2026-05-19",
@@ -33,5 +33,5 @@
       "dateAdded": "2026-05-18"
     }
   ],
-  "lastUpdated": "2026-05-18T14:30:10.645Z"
+  "lastUpdated": "2026-05-18T14:30:24.128Z"
 }
