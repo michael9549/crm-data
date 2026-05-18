@@ -1,21 +1,4 @@
 {
-  "leads": [
-    {
-      "id": "mpag39rpxy6iaqxins",
-      "name": "Mark Martin",
-      "email": "akjfeoiraue@gmail.com",
-      "phone": "999-999-9999",
-      "social": "http://www.fb.com/mark",
-      "source": "Facebook",
-      "status": "Sent Video",
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-17",
-      "nextFollowUp": "2026-05-18",
-      "notes": "",
-      "lastModified": "2026-05-18",
-      "dateAdded": "2026-05-17"
-    }
-  ],
-  "lastUpdated": "2026-05-18T13:21:35.224Z"
+  "leads": [],
+  "lastUpdated": "2026-05-18T13:31:36.537Z"
 }
